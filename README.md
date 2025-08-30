@@ -1,7 +1,7 @@
 # Secure Browsing with Sandboxie Plus  
 
 ##  Overview  
-This assignment demonstrates the use of **Sandboxie Plus** for safe web browsing. Browsers run inside a sandboxed environment, keeping downloads, history, and other activity isolated from the host system.  
+This demonstrates the use of **Sandboxie Plus** for safe web browsing. Browsers run inside a sandboxed environment, keeping downloads, history, and other activity isolated from the host system.  
 
 ##  Deliverables  
 - Walkthrough video (uploaded in this repo)  
